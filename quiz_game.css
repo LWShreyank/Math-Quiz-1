@@ -1,0 +1,23 @@
+body {
+    background: rgb(221, 90, 90);
+}
+.login_div1 , .login_div2
+	{
+		background: rgb(20, 4, 241);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+    #player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#p1 , #p2
+{
+color: blanchedalmond;
+}
+#l , #la
+{
+    color: azure;
+}
